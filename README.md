@@ -3,12 +3,13 @@
 
 # Table of contents
 
-[Introduction](#introduction)
-  - [Data Mining](#data-mining)
+ - [Introduction](#introduction)
+
+ - [Data Mining](#data-mining)
         
-  - [Data Cleaning](#data-cleaning)
+ - [Data Cleaning](#data-cleaning)
     
-  - [Recommendation](#recommendation)
+ - [Recommendation](#recommendation)
 
 
 ## Introduction
