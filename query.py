@@ -31,7 +31,7 @@ query = '''
       description
       averageScore
       popularity
-      
+      siteUrl
       
     }
   }
