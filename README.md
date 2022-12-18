@@ -4,10 +4,10 @@
 # Table of contents
 
 [Introduction](#introduction)
-  - [Data Mining](#datamining)
-    - `API`    
+  - [Data Mining](#data-mining)
+        
   - [Data Cleaning](#data-cleaning)
-    - `EDA`
+    
   - [Recommendation](#recommendation)
 
 
