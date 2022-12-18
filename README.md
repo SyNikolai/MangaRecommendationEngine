@@ -20,7 +20,7 @@ series, more often than not, finding a new series to binge read can be challengi
 Using data gathered form the Anilist API ('https://graphql.anilist.co'), in combination with a simple natural language processing
 model, we can give recommendations for readers.
 
-In this project, you can find, download and recreate, or optimize the process of recommending manga series based on the series
+In this repository, you can find, clone, recreate, or optimize the process of recommending manga series based on the series
 description.
 
 ### Data Mining
@@ -36,4 +36,4 @@ and irrelevant patterns that did not provide meaninful information about the con
 
 ### Recommendation
 
-Finally, after creating a recommendation function that takes as input the data frame, and a manga title of our choosing (title must be in romaji, and exist into the dataframe), 5 recommended titles are produced. Measure of similarity used in the fucntion is the cosine similarity algorithm (https://en.wikipedia.org/wiki/Cosine_similarity) (relevant code: recommendation notebook)
+Finally, after creating a recommendation function that takes as input the data frame, and a manga title of our choosing (title must be in romaji, and exist into the dataframe), 5 recommended titles are produced. Measure of similarity used in the function is the cosine similarity algorithm (https://en.wikipedia.org/wiki/Cosine_similarity) (relevant code: recommendation notebook)
