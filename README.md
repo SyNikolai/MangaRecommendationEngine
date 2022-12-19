@@ -32,7 +32,7 @@ The query used to draw data can be found in the executed query.py script.
 ### Data Cleaning
 
 In order to bring our data in the correct form, the description text of each title needed to be cleaned of special characters
-and irrelevant patterns that did not provide meaninful information about the content of the series. Using graphs and statistics we also got an insightful look at the series recoreded in the dataframe (relevant code: eda notebook).
+and irrelevant patterns that did not provide meaninful information about the content of the series. Using graphs and statistics we also got an insightful look at the series recorded in the dataframe (relevant code: eda notebook).
 
 ### Recommendation
 
