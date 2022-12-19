@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Japanese comics, commonly known as Manga, have beacome one of the most popular forms of literature. However, due to the vast amount of
+Japanese comics, commonly known as Manga, have become one of the most popular forms of literature. However, due to the vast amount of
 different titles, more often than not, finding a new series to binge read can be challenging.
 
 Using data gathered form the Anilist API ('https://graphql.anilist.co'), in combination with a simple natural language processing
